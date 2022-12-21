@@ -8,11 +8,16 @@ header {
     background-color: #a9c0ab;
 }
 
+
 .logoPrincipal {
     width: 15%;
-    padding: 10px;
+    padding-top: 5px;
 }
 
+.logoNav {
+    width: 30%;
+    padding-top: 5px;
+}
 /* NAV */
 nav {
     background-color: #a9c0ab;
@@ -143,3 +148,10 @@ nav {
     left: -1.5%;
     top: 40%;
 }
+
+/* MEDIA VISTA MOBILE
+@media (max-width: 699px) {
+    .header {
+        display: none;
+    }
+} */
